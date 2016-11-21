@@ -314,3 +314,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u50_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:41px;
+}
+#u50 {
+  position:absolute;
+  left:476px;
+  top:720px;
+  width:50px;
+  height:41px;
+}
+#u51 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:46px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
